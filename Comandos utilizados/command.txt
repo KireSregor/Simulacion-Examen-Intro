@@ -1,0 +1,20 @@
+  231  git branch
+  232  git merge origin/master
+  233  git branch
+  234  git branch
+  235  git pull origin main
+  236  git branch
+  237  git branch -m aguita main
+  238  git branch 
+  239  git push origin main
+  240  git branch 
+  241  git push origin --delete aguita
+  242  clear
+  243  git remote show origin
+  244  git branch hotfix
+  245  git branch
+  246  git checkout hotfix
+  247  git branch
+  248  history
+  249  history 20
+  250  history 20 > Comandos\ utilizados/command.txt 
